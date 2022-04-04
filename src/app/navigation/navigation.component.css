@@ -1,0 +1,58 @@
+.font-style{
+    font-family: 'Open Sans', sans-serif!important ;
+    color:#305857 ;
+    font-size:16px ; 
+    font-weight:bold;
+    padding-left: 70px;
+}
+
+.countdown{
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+    background-color: #c3dfdc;
+    margin-right: 40px;
+    margin-top: 25px;
+}
+
+.font-middle{
+    font-family: 'Open Sans', sans-serif!important ;
+    color:#305857 ;
+    font-size:62px ; 
+    font-weight:bold;
+    padding-top: 30%;
+}
+
+.font-hour{
+    font-family: 'Open Sans', sans-serif!important ;
+    color:#305857 ;
+    font-size:16px ; 
+    font-weight:bold;
+    padding-left: 0px;
+}
+
+.font-reminder{
+    font-family: 'Open Sans', sans-serif!important ;
+    color:#b69a50 ;
+    font-size:18px ; 
+    font-weight:normal;
+    margin-top: 25px;    
+    padding-right: 40px;
+    letter-spacing: 2px;
+}
+
+.font-desc{
+    font-family: 'Open Sans', sans-serif!important ;
+    color:#305857 ;
+    font-size:16px ; 
+    font-weight:normal;
+    padding-left: 0px;
+}
+.abso{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
